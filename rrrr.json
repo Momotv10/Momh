@@ -1,0 +1,44 @@
+[
+    {
+        "productName": "omron M1 ",
+        "description": ". جهاز Omron M1 هو أداة قيمة للأشخاص الذين يرغبون في مراقبة صحتهم القلبية وقياس ضغط الدم بسهولة ودقة في المنزل أو أثناء التنقل.",
+        "price": "21000",
+        "image": "http://deposite.pictures/p/c14262e2x005af359fe803a3a9f6363d2c76ac9ad95e295ca"
+    },
+    {
+        "productName": "omron M3",
+        "description": "يوفر قياسًا سريعًا ودقيقًا لضغط الدم. يحتوي الجهاز على شاشة كبيرة وسهلة القراءة تعرض القيم الانقباضية والانبساطية ونبضات القلب.",
+        "price": "380000",
+        "image": "http://deposite.pictures/p/c14262e2x2c5707f32e824247d5bf8e099e08f68d95e295ca"
+    },
+    {
+        "productName": "omron M7",
+        "description": "يتميز الجهاز بتقنية IntelliWrap المبتكرة التي تقوم بتوفير قراءات دقيقة وموثوقة لضغط الدم من خلال قياس في 360 درجة حول الذراع.",
+        "price": "25000",
+        "image": "http://deposite.pictures/p/c14262e2xca24027f4fbc5486022018ade651a02295e295ca"
+    },
+    {
+        "productName": "omron RS2",
+        "description": "يتميز الجهاز بسهولة الاستخدام والتشغيل بلمسة واحدة، مما يجعله مثاليًا للأشخاص الذين يحتاجون إلى مراقبة ضغط الدم بانتظام في المنزل.",
+        "price": "12500",
+        "image": "http://deposite.pictures/p/c14262e2x0178dc5aa66b7e6ea834436d21c5730595e295ca"
+    },
+    {
+        "productName": "omron C101",
+        "description": " يعد الجهاز مفيدًا للأشخاص الذين يعانون من ارتفاع ضغط الدم أو يحتاجون إلى مراقبة دورية لصحتهم القلبية.",
+        "price": "30000",
+        "image": "http://deposite.pictures/p/baaafb7dx90bcccddb2f32d9efe2c8a93eb86c19edb4d7db2"
+    },
+    {
+        "productName": "omron BF511",
+        "description": "بفضل دقته وتعدد المؤشرات التي يقيسها، يعد Omron BF511 خيارًا مثاليًا للأشخاص الذين يهتمون بمراقبة تركيبة الجسم ومتابعة تقدمهم في تحقيق أهدافهم الصحية واللياقة البدنية.",
+        "price": "10000",
+        "image": "http://deposite.pictures/p/baaafb7dxe8451dd6bffbadc55da7bdf11992a5a6db4d7db2"
+    },
+    {
+        "productName": "omron ECO",
+        "description": "جهاز قياس الحراره",
+        "price": "8000",
+        "image": "http://deposite.pictures/p/baaafb7dx3ec9054196b024dcb3517562f0b5e356db4d7db2"
+    }
+]
